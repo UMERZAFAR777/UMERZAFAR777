@@ -11,6 +11,7 @@ Currently honing my skills in Python, I'm exploring the realms of web developmen
                 2 = Frameworks: Django (for web development)
                 3 = Tools: Git, GitHub, VS Code
                 4 = Skills: Problem-solving, debugging, and a pinch of creativity
+                
 📚 Learning Goals:
 I'm on a quest to master Python and expand my toolkit. Next stops include diving into frameworks like Django, delving into databases, and conquering the art of efficient algorithm design. I believe in the power of continuous learning and am always open to new challenges.
 
